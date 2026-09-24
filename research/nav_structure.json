@@ -1,0 +1,330 @@
+[
+  {
+    "href": "index.php",
+    "text": "Home"
+  },
+  {
+    "href": "about-us.php",
+    "text": "Overview"
+  },
+  {
+    "href": "about-vision-mission.php",
+    "text": "Vision & Mission"
+  },
+  {
+    "href": "governing_council.php",
+    "text": "Governing Council"
+  },
+  {
+    "href": "chairman-message.php",
+    "text": "Chairman's Message"
+  },
+  {
+    "href": "principal_message.php",
+    "text": "Principal's Message"
+  },
+  {
+    "href": "Committees.php",
+    "text": "Committees"
+  },
+  {
+    "href": "Other-Committees.php",
+    "text": "Other Committees"
+  },
+  {
+    "href": "Statutory-Committees.php",
+    "text": "Statutory Committees"
+  },
+  {
+    "href": "Student-Clubs.php",
+    "text": "Student Clubs"
+  },
+  {
+    "href": "Organizational-Chart.php",
+    "text": "Organizational Chart"
+  },
+  {
+    "href": "AICTE-Approvals.php",
+    "text": "AICTE Approvals"
+  },
+  {
+    "href": "VTU-Affiliation.php",
+    "text": "VTU Affiliation"
+  },
+  {
+    "href": "NBA-Accreditation.php",
+    "text": "NBA Accreditation"
+  },
+  {
+    "href": "mandatory_disclosure.php",
+    "text": "Mandatory Disclosure"
+  },
+  {
+    "href": "artificial_intelligence_and_datascience.php",
+    "text": "Artificial Intelligence & Data Science (AI&DS)"
+  },
+  {
+    "href": "artificial_intelligence_machine_learning.php",
+    "text": "Artificial Intelligence & Machine Learning (AI&ML)"
+  },
+  {
+    "href": "civilengineering.php",
+    "text": "Civil Engineering (CE)"
+  },
+  {
+    "href": "computerscienceengineering.php",
+    "text": "Computer Science & Engineering (CSE)"
+  },
+  {
+    "href": "electronics_and_communication_engineering.php",
+    "text": "Electronics & Communication Engineering (ECE)"
+  },
+  {
+    "href": "pg-mca.php",
+    "text": "Master in Computer Applications - MCA"
+  },
+  {
+    "href": "training-placement.php",
+    "text": "Training and Placement"
+  },
+  {
+    "href": "humanities.php",
+    "text": "Humanities"
+  },
+  {
+    "href": "physics.php",
+    "text": "Physics"
+  },
+  {
+    "href": "chemistry.php",
+    "text": "Chemistry"
+  },
+  {
+    "href": "mathematics.php",
+    "text": "Mathematics"
+  },
+  {
+    "href": "Mechanical.php",
+    "text": "Mechanical Engineering"
+  },
+  {
+    "href": "library.php",
+    "text": "Library Sciences"
+  },
+  {
+    "href": "sports.php",
+    "text": "Physical Education"
+  },
+  {
+    "href": "artificial_intelligence_and_datascience.php",
+    "text": "Artificial Intelligence & Data Science"
+  },
+  {
+    "href": "civilengineering.php",
+    "text": "Civil Engineering"
+  },
+  {
+    "href": "computerscienceengineering.php",
+    "text": "Computer Science & Engineering"
+  },
+  {
+    "href": "iot-skill-laboratory.php",
+    "text": "IoT Skill laboratory"
+  },
+  {
+    "href": "design-innovation-laboratory.php",
+    "text": "Design and Innovation Laboratory (DIL)"
+  },
+  {
+    "href": "e-learing.php",
+    "text": "E-Learning"
+  },
+  {
+    "href": "Under-Graduate.php",
+    "text": "Under Graduate"
+  },
+  {
+    "href": "Post-Graduate.php",
+    "text": "Post Graduate"
+  },
+  {
+    "href": "library.php",
+    "text": "Library"
+  },
+  {
+    "href": "sports.php",
+    "text": "Sports"
+  },
+  {
+    "href": "innovation-laboratory.php",
+    "text": "Innovation Laboratory"
+  },
+  {
+    "href": "hostel.php",
+    "text": "Hostel"
+  },
+  {
+    "href": "amenities.php",
+    "text": "Amenities"
+  },
+  {
+    "href": "Health-Center.php",
+    "text": "Health Center"
+  },
+  {
+    "href": "canteen.php",
+    "text": "Canteen"
+  },
+  {
+    "href": "transportation.php",
+    "text": "Transportation"
+  },
+  {
+    "href": "Research-main.php",
+    "text": "Research"
+  },
+  {
+    "href": "internship.php",
+    "text": "Internship"
+  },
+  {
+    "href": "placement_records.php",
+    "text": "Placement Records"
+  },
+  {
+    "href": "recruiters.php",
+    "text": "Recruiters"
+  },
+  {
+    "href": "institutions-Innovation-council.php",
+    "text": "Institution's Innovation Council"
+  },
+  {
+    "href": "career-guidance-cell.php",
+    "text": "Career Guidance Cell"
+  },
+  {
+    "href": "placement_process.php",
+    "text": "Placement Process"
+  },
+  {
+    "href": "testimonials.php",
+    "text": "Testimonials"
+  },
+  {
+    "href": "internal-quality-assurance-cell.php",
+    "text": "Internal Quality Assurance Cell"
+  },
+  {
+    "href": "innovation-council.php",
+    "text": "Institution's Innovation Council"
+  },
+  {
+    "href": "Professional-Body-Chapters.php",
+    "text": "Professional Body Chapters"
+  },
+  {
+    "href": "cultural-club.php",
+    "text": "Cultural Club"
+  },
+  {
+    "href": "ECO-club.php",
+    "text": "ECO Club"
+  },
+  {
+    "href": "TECHNICAL-club.php",
+    "text": "TECHNICAL Club"
+  },
+  {
+    "href": "SPORTS-club.php",
+    "text": "SPORTS Club"
+  },
+  {
+    "href": "LITERARY-club.php",
+    "text": "LITERARY Club"
+  },
+  {
+    "href": "Scholarships.php",
+    "text": "Scholarships"
+  },
+  {
+    "href": "NSS-club.php",
+    "text": "NSS"
+  },
+  {
+    "href": "Outreach-Programs.php",
+    "text": "Outreach Programs"
+  },
+  {
+    "href": "Student-Counselling-Mentoring.php",
+    "text": "Student Counselling and Mentoring"
+  },
+  {
+    "href": "aniragging-committee.php",
+    "text": "Anti Ragging Committee"
+  },
+  {
+    "href": "sc-st-obc-cell.php",
+    "text": "SC/ST/OBC Cell"
+  },
+  {
+    "href": "iqac.php",
+    "text": "IQAC"
+  },
+  {
+    "href": "mentoring.php",
+    "text": "Mentoring"
+  },
+  {
+    "href": "internal-complaints-committee.php",
+    "text": "Internal Complaints Committee"
+  },
+  {
+    "href": "student_grievance.php",
+    "text": "Grievance Redressal Committee"
+  },
+  {
+    "href": "feedback-on-teaching-learning-process.php",
+    "text": "Feedback on Teaching-Learning Process"
+  },
+  {
+    "href": "nss.php",
+    "text": "NSS"
+  },
+  {
+    "href": "red_cross.php",
+    "text": "Red Cross"
+  },
+  {
+    "href": "gallery.php",
+    "text": "Gallery"
+  },
+  {
+    "href": "gallery.php",
+    "text": "Campus Life"
+  },
+  {
+    "href": "career.php",
+    "text": "Careers"
+  },
+  {
+    "href": "Grievance_Redressal.php",
+    "text": "Grievance Redressal"
+  },
+  {
+    "href": "Alumni-Registration.php",
+    "text": "Alumni Registration"
+  },
+  {
+    "href": "contact_us.php",
+    "text": "Contact Us"
+  },
+  {
+    "href": "www.arbrands.in",
+    "text": "Designed & Developed by AR Brands"
+  },
+  {
+    "href": "admission-form.php",
+    "text": "Admission"
+  }
+]
